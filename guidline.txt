@@ -1,0 +1,5 @@
+ Guid line for project
+1> first of all u have to install Tensorlfow objection(there is lot of tuetorial in youtube) api in your labtop/pc and 
+2> winsound libary(u can install winsound libary by command "pip install winsound", also u have to download the bee sound in ogg formate and
+   save this file on  object_detection folder
+  and then open objedtdet.py(C:\Users\Robin\Documents\Project\models\research\object_detection) file 
